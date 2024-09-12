@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "major-cluster.gl.joinmc.link",
-          "assigned_srv": "major-cluster.gl.joinmc.link",
+          "assigned_domain": "instruments-previously.gl.joinmc.link",
+          "assigned_srv": "instruments-previously.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "cdc7e495-b579-4dc1-ada4-8ace8ea2be35",
+          "id": "f3114fe6-9d76-421f-aa7a-cb8a65eeec4a",
           "ip_hostname": "22.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 40253,
-          "port_start": 40252,
+          "port_end": 39939,
+          "port_start": 39938,
           "region": "global",
           "static_ip4": "147.185.221.22",
           "tunnel_ip": "2602:fbaf:0:1::16"
         },
         "status": "allocated"
       },
-      "created_at": "2024-09-08T16:22:46.416872Z",
+      "created_at": "2024-09-12T14:22:14.857062Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "0fb339e4-4603-4faf-8ba6-2e4dbdffdfac",
+      "id": "d7ef217b-1d0f-4003-9645-091c5b2e7185",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "2211f70c-e034-4d74-bb45-48b1bdc397e4",
-          "agent_name": "IpFija",
+          "agent_id": "873dbd2d-8818-44db-965c-9c63a6824cf8",
+          "agent_name": "Medieval RPG Craft",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
